@@ -1,0 +1,22 @@
+# Rock Paper Scissors Game Requirements
+
+# GUI Framework (built-in with Python)
+# tkinter comes pre-installed with Python on most systems
+
+# No external dependencies required!
+# This game uses only Python standard library modules:
+# - tkinter (GUI)
+# - random (game logic)
+# - datetime (timestamps)
+# - json (save/load stats)
+# - os (file operations)
+
+# Note: If tkinter is not available, install it with:
+# - Ubuntu/Debian: sudo apt-get install python3-tk
+# - Fedora: sudo dnf install python3-tkinter
+# - macOS: tkinter is included with Python
+# - Windows: tkinter is included with Python
+
+# FONT:
+# The application uses the Courier New system font directly.
+# No custom font installation required.

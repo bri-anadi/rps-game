@@ -1,0 +1,110 @@
+{
+    "player_score": 6,
+    "computer_score": 3,
+    "draws": 1,
+    "total_games": 10,
+    "current_streak": 2,
+    "best_streak": 4,
+    "history": [
+        {
+            "player": "Rock",
+            "computer": "Scissors",
+            "winner": "Player",
+            "timestamp": "14:36:26"
+        },
+        {
+            "player": "Rock",
+            "computer": "Paper",
+            "winner": "Computer",
+            "timestamp": "14:36:32"
+        },
+        {
+            "player": "Paper",
+            "computer": "Rock",
+            "winner": "Player",
+            "timestamp": "14:36:34"
+        },
+        {
+            "player": "Paper",
+            "computer": "Rock",
+            "winner": "Player",
+            "timestamp": "14:36:35"
+        },
+        {
+            "player": "Rock",
+            "computer": "Scissors",
+            "winner": "Player",
+            "timestamp": "14:36:38"
+        },
+        {
+            "player": "Rock",
+            "computer": "Paper",
+            "winner": "Computer",
+            "timestamp": "14:36:41"
+        },
+        {
+            "player": "Rock",
+            "computer": "Paper",
+            "winner": "Computer",
+            "timestamp": "14:36:44"
+        },
+        {
+            "player": "Scissors",
+            "computer": "Paper",
+            "winner": "Player",
+            "timestamp": "14:36:46"
+        },
+        {
+            "player": "Paper",
+            "computer": "Paper",
+            "winner": "Draw",
+            "timestamp": "14:36:48"
+        },
+        {
+            "player": "Scissors",
+            "computer": "Paper",
+            "winner": "Player",
+            "timestamp": "14:36:50"
+        }
+    ],
+    "total_challenge_points": 450,
+    "challenges": [
+        {
+            "id": "win_10",
+            "name": "Dominator",
+            "description": "Win 10 games",
+            "target": 10,
+            "reward_points": 250,
+            "type": "wins",
+            "difficulty": "Normal",
+            "progress": 10,
+            "completed": true,
+            "date_assigned": "2025-10-17"
+        },
+        {
+            "id": "quick_5",
+            "name": "Speed Demon",
+            "description": "Win 5 games in under 5 minutes total",
+            "target": 5,
+            "reward_points": 150,
+            "type": "speed",
+            "difficulty": "Normal",
+            "progress": 5,
+            "completed": true,
+            "date_assigned": "2025-10-17"
+        },
+        {
+            "id": "win_3",
+            "name": "Quick Winner",
+            "description": "Win 3 games",
+            "target": 3,
+            "reward_points": 50,
+            "type": "wins",
+            "difficulty": "Normal",
+            "progress": 3,
+            "completed": true,
+            "date_assigned": "2025-10-17"
+        }
+    ],
+    "last_challenge_date": "2025-10-17"
+}
