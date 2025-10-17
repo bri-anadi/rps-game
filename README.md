@@ -2,6 +2,8 @@
 
 Game Rock Paper Scissors modern dengan fitur lengkap yang dibangun menggunakan Python dan Tkinter, menampilkan level kesulitan AI, timer bergaya catur, tantangan harian, dan pelacakan statistik komprehensif.
 
+![ss](ss.png)
+
 ## Fitur
 
 ### Gameplay Inti

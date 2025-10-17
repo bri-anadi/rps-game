@@ -1,70 +1,70 @@
 {
-    "player_score": 6,
-    "computer_score": 3,
-    "draws": 1,
-    "total_games": 10,
-    "current_streak": 2,
+    "player_score": 15,
+    "computer_score": 14,
+    "draws": 13,
+    "total_games": 42,
+    "current_streak": 0,
     "best_streak": 4,
     "history": [
-        {
-            "player": "Rock",
-            "computer": "Scissors",
-            "winner": "Player",
-            "timestamp": "14:36:26"
-        },
-        {
-            "player": "Rock",
-            "computer": "Paper",
-            "winner": "Computer",
-            "timestamp": "14:36:32"
-        },
-        {
-            "player": "Paper",
-            "computer": "Rock",
-            "winner": "Player",
-            "timestamp": "14:36:34"
-        },
-        {
-            "player": "Paper",
-            "computer": "Rock",
-            "winner": "Player",
-            "timestamp": "14:36:35"
-        },
-        {
-            "player": "Rock",
-            "computer": "Scissors",
-            "winner": "Player",
-            "timestamp": "14:36:38"
-        },
-        {
-            "player": "Rock",
-            "computer": "Paper",
-            "winner": "Computer",
-            "timestamp": "14:36:41"
-        },
-        {
-            "player": "Rock",
-            "computer": "Paper",
-            "winner": "Computer",
-            "timestamp": "14:36:44"
-        },
         {
             "player": "Scissors",
             "computer": "Paper",
             "winner": "Player",
-            "timestamp": "14:36:46"
+            "timestamp": "18:15:40"
+        },
+        {
+            "player": "Paper",
+            "computer": "Rock",
+            "winner": "Player",
+            "timestamp": "18:15:42"
+        },
+        {
+            "player": "Paper",
+            "computer": "Scissors",
+            "winner": "Computer",
+            "timestamp": "18:15:43"
         },
         {
             "player": "Paper",
             "computer": "Paper",
             "winner": "Draw",
-            "timestamp": "14:36:48"
+            "timestamp": "18:15:45"
+        },
+        {
+            "player": "Rock",
+            "computer": "Scissors",
+            "winner": "Player",
+            "timestamp": "18:15:48"
         },
         {
             "player": "Scissors",
-            "computer": "Paper",
+            "computer": "Rock",
+            "winner": "Computer",
+            "timestamp": "18:15:51"
+        },
+        {
+            "player": "Scissors",
+            "computer": "Rock",
+            "winner": "Computer",
+            "timestamp": "18:15:54"
+        },
+        {
+            "player": "Rock",
+            "computer": "Scissors",
             "winner": "Player",
-            "timestamp": "14:36:50"
+            "timestamp": "18:15:54"
+        },
+        {
+            "player": "Rock",
+            "computer": "Scissors",
+            "winner": "Player",
+            "timestamp": "18:15:57"
+        },
+        {
+            "player": "Scissors",
+            "computer": "Rock",
+            "winner": "Computer",
+            "timestamp": "18:16:02"
         }
     ],
     "total_challenge_points": 450,
